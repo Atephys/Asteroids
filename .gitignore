@@ -3,4 +3,5 @@ flake.lock
 .direnv
 .envrc
 .venv
+__pycache__/
 
